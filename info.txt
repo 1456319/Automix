@@ -1,0 +1,1 @@
+SHA-1 fingerprint of app's signing certificate: 40:D3:8C:EA:90:41:11:F0:86:55:5B:1A:D9:30:4E:34:BF:AF:41:EA

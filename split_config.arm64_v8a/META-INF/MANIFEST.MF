@@ -1,0 +1,80 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: z4frHiAXBD5QpyG1zMLTDAn87dc=
+
+Name: lib/arm64-v8a/libanimation-decoder-gif.so
+SHA1-Digest: p1B/CSu7MsWIwHatGl0ljv0XAVI=
+
+Name: lib/arm64-v8a/libappmodules.so
+SHA1-Digest: EySXvjQWnkwuKH44z0JHzNpYeR0=
+
+Name: lib/arm64-v8a/libavif_android.so
+SHA1-Digest: R3YW+X0NT2zQPE5vdP+gSYFGQ4E=
+
+Name: lib/arm64-v8a/libc++_shared.so
+SHA1-Digest: dijX8PS9oo8UqLCpZq2SELawOYI=
+
+Name: lib/arm64-v8a/libexpo-av.so
+SHA1-Digest: 3p9iIgeBXYw4OWhaWSzJvz0dIb4=
+
+Name: lib/arm64-v8a/libexpo-modules-core.so
+SHA1-Digest: nCNQ9o5suhtqtrcE78DBixklm94=
+
+Name: lib/arm64-v8a/libfbjni.so
+SHA1-Digest: iiwvN+qKzm71f3gXOfvfO9JkKsI=
+
+Name: lib/arm64-v8a/libgesturehandler.so
+SHA1-Digest: 7y6kQdT9nkQGifOpQcN+Jh8ftFY=
+
+Name: lib/arm64-v8a/libgifimage.so
+SHA1-Digest: vQlB9PDCaiWqWywL8c9m+3XsnAU=
+
+Name: lib/arm64-v8a/libhermes.so
+SHA1-Digest: FdQm6nYe6cWe80tUN1Vcti8qz0o=
+
+Name: lib/arm64-v8a/libhermestooling.so
+SHA1-Digest: NLBVGIYd+kx9CeSwMvLx/LNZd/E=
+
+Name: lib/arm64-v8a/libimagepipeline.so
+SHA1-Digest: HdhghXryta6aUhQEt8FDb7ufOT8=
+
+Name: lib/arm64-v8a/libjsi.so
+SHA1-Digest: Jsdxnk62Aydl2K0DcL6srL8SFS4=
+
+Name: lib/arm64-v8a/libnative-filters.so
+SHA1-Digest: 5aLlgNBoSYsb77ENfld/UFO/1ok=
+
+Name: lib/arm64-v8a/libnative-imagetranscoder.so
+SHA1-Digest: Vf2MPVisbXWjc12nvL4JvUryHc4=
+
+Name: lib/arm64-v8a/libreact_codegen_rnpicker.so
+SHA1-Digest: papruwEDJghVrYS+kCxTAW4L/SQ=
+
+Name: lib/arm64-v8a/libreact_codegen_rnscreens.so
+SHA1-Digest: ybf5iz0ZUtngkdEI2gJmM/WNPbA=
+
+Name: lib/arm64-v8a/libreact_codegen_rnsvg.so
+SHA1-Digest: kO8GNkOJ2sCkiV9Ei20cM2yy8XI=
+
+Name: lib/arm64-v8a/libreact_codegen_safeareacontext.so
+SHA1-Digest: HvD6e/4MsE2lxlxA6yVfj98CePg=
+
+Name: lib/arm64-v8a/libreactnative.so
+SHA1-Digest: uridsUFJVBo8PwXYnwEFdbmH/Yo=
+
+Name: lib/arm64-v8a/libreanimated.so
+SHA1-Digest: T/YsCWq4eEH2GeRY3SDLFIgZMF8=
+
+Name: lib/arm64-v8a/librnscreens.so
+SHA1-Digest: uR36Ov7GZbjDwCVV/cA7YYkGmeI=
+
+Name: lib/arm64-v8a/libstatic-webp.so
+SHA1-Digest: N5HV0tVQBhOAaId57Ts+W08zilY=
+
+Name: lib/arm64-v8a/libworklets.so
+SHA1-Digest: tDgnvhn6oP9QW3ZZfAHSFSjPuz0=
+
+Name: stamp-cert-sha256
+SHA1-Digest: 5vTkm69vqAbusD/fho7oWwc7j+I=
+
