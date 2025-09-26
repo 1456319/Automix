@@ -1,0 +1,1 @@
+To reassemble the split_config.en.apk, zip the contents of this directory. The original file structure should be preserved.
